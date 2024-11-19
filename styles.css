@@ -48,7 +48,7 @@ body {
 
     .about p {
         width:50%;
-        text-align: center;
+        text-align: left;
         margin: auto;
         line-height: 125%;
     }
